@@ -1,0 +1,46 @@
+{
+  "name": "La caccia del gigione",
+  "description": "Se non ci fosse la zanzariera qualche piccione sarebbe in pericolo",
+  "image": "https://gateway.pinata.cloud/ipfs/QmRCtA351TijQbSXS7H2pfG7vZtSShpRgFpkmRiH57kbuX/N.6%20APOLLO%2011.webm",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Cacciatore"
+    },
+    {
+      "trait_type": "Occhi",
+      "value": "Felini"
+    },
+    {
+      "trait_type": "Bocca",
+      "value": "Ti Mangio"
+    },
+    {
+      "trait_type": "Livello",
+      "value": 9
+    },
+    {
+      "trait_type": "Resistenza",
+      "value": 2
+    },
+    {
+      "trait_type": "Personalità",
+      "value": "Aggressivo"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Salto al piccione",
+      "value": 90
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Boost di caccia",
+      "value": 20
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generazione",
+      "value": 4
+    }
+  ]
+}

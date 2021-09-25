@@ -1,0 +1,46 @@
+{
+  "name": "La nascita di Gigi",
+  "description": "Uno dei momenti piu bull di Sassuolo.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmRCtA351TijQbSXS7H2pfG7vZtSShpRgFpkmRiH57kbuX/N.6%20APOLLO%2011.webm",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Gattone"
+    },
+    {
+      "trait_type": "Occhi",
+      "value": "Belli"
+    },
+    {
+      "trait_type": "Bocca",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Livello",
+      "value": 8
+    },
+    {
+      "trait_type": "Resistenza",
+      "value": 4
+    },
+    {
+      "trait_type": "Personalità",
+      "value": "Topone"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Salto al friariello",
+      "value": 40
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Boost di potenza",
+      "value": 10
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generazione",
+      "value": 2
+    }
+  ]
+}
