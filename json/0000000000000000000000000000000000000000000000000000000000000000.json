@@ -1,0 +1,46 @@
+{
+  "name": "Il metadata è stato cambiato",
+  "description": "La descrizione è stata cambiata",
+  "image": "https://gateway.pinata.cloud/ipfs/QmRCtA351TijQbSXS7H2pfG7vZtSShpRgFpkmRiH57kbuX/N.6%20APOLLO%2011.webm",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Gattino"
+    },
+    {
+      "trait_type": "Occhi",
+      "value": "Rotondi"
+    },
+    {
+      "trait_type": "Bocca",
+      "value": "Di Baci"
+    },
+    {
+      "trait_type": "Livello",
+      "value": 3
+    },
+    {
+      "trait_type": "Resistenza",
+      "value": 9
+    },
+    {
+      "trait_type": "Personalità",
+      "value": "Patato"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Salto al funghetto",
+      "value": 40
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Boost di salto",
+      "value": 10
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generazione",
+      "value": 3
+    }
+  ]
+}
