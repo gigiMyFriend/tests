@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xCd8C8038da838580f727E4BCCcCD5a4DB5e81FA4",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xcd8c8038da838580f727e4bccccd5a4db5e81fa4",
+  "NETWORK": {
+    "NAME": "Rinkeby Test",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "BaciBaciBaci",
+  "SYMBOL": "BCX3",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bacibacibaci",
+  "SHOW_BACKGROUND": false
+}
